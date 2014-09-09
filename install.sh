@@ -7,3 +7,5 @@ sudo apt-get install -y chromium-browser
 sudo add-apt-repository ppa:ubuntugis/ppa && sudo apt-get update
 sudo apt-get install gdal-bin
 ogrinfo
+
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
